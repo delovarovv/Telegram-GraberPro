@@ -26,9 +26,13 @@
 
 # Установка: 
 sudo apt update
+
 sudo apt -y upgrade
+
 sudo apt -y install python3-pip
+
 sudo apt -y install build-essential libssl-dev libffi-dev python3-dev
+
 sudo apt install -y python3-venv 
 
 # Библиотека aiogram: 
